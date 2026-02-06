@@ -2,8 +2,8 @@
 ## Download Instructions
 IMPORTANT: You NEED to have downloaded Greenfoot for this!
 1. Go to https://www.greenfoot.org/download and install Greenfoot for your platform (if you don't already have Greenfoot).
-2. Install the .gfar file above
-3. Open the .gfar file
+2. Install the .gfar file above.
+3. Open the .gfar file.
 4. Hit "Run" at the bottom.
 5. Enjoy!
 
