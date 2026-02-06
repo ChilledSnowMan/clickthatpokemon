@@ -2,7 +2,7 @@
 ## Download Instructions
 IMPORTANT: You NEED to have downloaded Greenfoot for this!
 1. Go to https://www.greenfoot.org/download and install Greenfoot for your platform (if you don't already have Greenfoot).
-2. Install the .gfar file above.
+2. Install the .gfar file above. <gfar is even too large for github ... I will upload entire src code later>
 3. Open and enjoy
 
 ## Details
