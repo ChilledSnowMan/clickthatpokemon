@@ -6,12 +6,14 @@ IMPORTANT: You NEED to have downloaded Greenfoot for this!
     - (How do I do this?) Click on the .zip file. There should be a small download button on the top right next to the "Raw" button.
 4. Follow this link to download the zipped image files: https://drive.google.com/file/d/1_7IOrdbb1V-X8ZDigzh_pJr-SAogwNyy/view?usp=sharing
 5. Unzip ClickThatPokemon.zip once it's finished downloading.
-6. Move the images.zip into the ClickThatPokemon folder, then unzip it (images.zip). 
-7. Open Greenfoot.
-8. At the top, press Scenario -> Open. Locate the ClickThatPokemon folder you just downloaded and modifed. Open/Select that folder.
-9. Let the scenario configure. This may take a while.
-10. Once it's finished configuring, hit "Run" at the bottom to start the game. 
-11. Enjoy!
+6. Move the images.zip into the ClickThatPokemon folder, then unzip it (images.zip).
+    - Depending on how your device unzips this, you might get a nested file situation (ie: ClickThatPokemon/images/images/[all the images]
+    - If this happens, you MUST move all the images to the top most images foler (ie: directory should look like ClickThatPokemon/images[all the images]
+8. Open Greenfoot.
+9. At the top, press Scenario -> Open. Locate the ClickThatPokemon folder you just downloaded and modifed. Open/Select that folder.
+10. Let the scenario configure. This may take a while.
+11. Once it's finished configuring, hit "Run" at the bottom to start the game. 
+12. Enjoy!
 
 Note: If the overall game in Greenfoot looks small to you: its like that. I made this on my laptop (with a very small screen) so that's being reflected in the Greenfoot project! Since Greenfoot is old and decrepid, you can't zoom! Enjoy my 1000 by 600 game because my laptop is small and Greenfoot doesn't allow zooming. 
 
