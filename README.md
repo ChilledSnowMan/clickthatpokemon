@@ -23,5 +23,5 @@ The .gfar file is back now! Game is faster when loading JPEGs too.
 Version 2.0:
 - Included a "results" button on the game over screen to display results of your quiz.
 - Updated generation selection page to include all the same art style (earlier image was just a bunch of images I found off Google. I'm now using the proper sprites I got from that mega zip).
-  - Everything is now a JPEG! (except custom cursor)
+  - Everything is now a JPEG! (except custom cursor because I need that transparent background).
 - Fixed a few minor bugs.
