@@ -8,6 +8,9 @@ IMPORTANT: You NEED to have downloaded Greenfoot for this!
 5. Once it's finished configuring, hit "Run" at the bottom to start the game. 
 6. Enjoy!
 
+Option 2: Just play on it Greenfoot!
+https://www.greenfoot.org/scenarios/36079
+
 Note: If the overall game in Greenfoot looks small to you: its like that. I made this on my laptop (with a very small screen) so that's being reflected in the Greenfoot project! Since Greenfoot is old and decrepid, you can't zoom! Enjoy my 1000 by 600 game because my laptop is small and Greenfoot doesn't allow zooming. 
 
 ## Details
@@ -18,10 +21,13 @@ I was originally going to export this to Greenfoot (hence why I used Greenfoot l
 All Pokemon image credits go to Nintendo/Game Freak.
 
 ## Updates/Patch Notes:
-The .gfar file is back now! Game is faster when loading JPEGs too.
+The .gfar file is back now! Game is now much, much more optimized.
 
 Version 2.0:
 - Included a "results" button on the game over screen to display results of your quiz.
 - Updated generation selection page to include all the same art style (earlier image was just a bunch of images I found off Google. I'm now using the proper sprites I got from that mega zip).
   - Everything is now a JPEG! (except custom cursor because I need that transparent background).
 - Fixed a few minor bugs.
+
+Version 3.0:
+- Now using sprite pages instead of individual pokemon images. (Greenfoot supports me again! :)
